@@ -1,0 +1,14 @@
+{
+    "objectives":{
+        "text":"MoMes (MObile gaMES) é um site focado em classificar os melhores jogos mobile para te ajudar a escolher os que melhor combinam com você. Aqui nós separamos os melhores jogos de cada categoria tanto pela sua nota como pela nossa própria expêriencia jogando. Tudo isso para que você possa aproveitar apenas dos melhores jogos mobile do mercado.",
+        "linkImg":"assets/images/AndroidPet.png"
+    },
+    "history":{
+        "text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum laboriosam inventore dolorum ea possimus, consequatur ullam dolorem omnis impedit fugiat sed tempora odit asperiores quas non labore suscipit? Veritatis, quae.",
+        "linkImg":"assets/images/androidPetReading.png"
+    },
+    "creators":{
+        "text":"Atualmente o site possui apenas 1 criador, sendo ele o dono do site. Desde o inicio do site ja teve um total de 1 pessoa trabalhando nele e esperamos que este número nunca pare de crescer. Ao lado temos as imagens de todos os criadores.",
+        "linkImg":"assets/images/creatorImage.png"
+    }
+}
