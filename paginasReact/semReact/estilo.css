@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: #61DBFB;
+}
+#sec1{
+    display: flex;
+    width: 40%;
+    margin-left: 10%;
+}
+#logo{
+width: 20%;
+}
+
+#sec2{
+    width: 50%;
+    margin-left: 10%;
+}
+.buttonBox{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1%;
+}
+button{
+    font-size: 1.5em;
+    background-color: rgb(90, 90, 90);
+    color: white;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    cursor: pointer;
+    padding: 10% 0;
+}
+.button:hover{
+    background-color: #61DBFB;
+    color: black;
+}
+
+.clicked{
+    background-color: #61DBFB;
+    color: black;
+}
+
+
+#content{
+    background-color: rgb(105, 105, 105);
+    color: white;
+    font-size: 2em;
+    ul{
+        margin-left: 5%;
+        margin-top: 0;
+
+        li{
+            padding: 1.5% 0;
+        }
+
+    }
+
+}
